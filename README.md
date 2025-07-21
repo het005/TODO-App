@@ -20,3 +20,6 @@ Task status update system
 No external libraries required
 
 Great for practicing Python control flow and functions
+
+📌 Technologies Used
+Python (Core)
